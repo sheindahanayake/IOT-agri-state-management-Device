@@ -1,4 +1,4 @@
-# IoT State Management System
+# IoT State Management System Device
 
 ## Overview
 The **IoT State Management System** is designed to monitor soil and environmental conditions in real-time. Using **Arduino ESP32**, it collects data from an **NPK sensor** (Nitrogen, Phosphorus, Potassium levels) and a **DHT11 sensor** (Temperature and Humidity). The system provides real-time monitoring via **Blynk** and stores the data in **Firebase** for notifications and remote access.
